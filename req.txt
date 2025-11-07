@@ -3,4 +3,7 @@ uvicorn[standard]
 pillow
 pydantic
 python-multipart     # if you want file uploads later
-
+streamlit
+requests
+pandas
+plotly
